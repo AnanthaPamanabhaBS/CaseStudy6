@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="28.254769">
+<testcase classname="To register in the TestMeApp" name="_2" time="28.254769">
+<system-out><![CDATA[Given User click on register or signup button on register app...............passed
+When user enters "Aghuyg" , "anana" , "padmanabha" , "12345" , "12345" , "ananth@gmail.com" , "<moblieNumber>" , "24/12/1997" , "Chennai" , "blue".passed
+Then user navigates to the home page........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
